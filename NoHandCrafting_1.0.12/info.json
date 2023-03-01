@@ -1,0 +1,11 @@
+{
+  "name": "NoHandCrafting",
+  "version": "1.0.12",
+  "factorio_version": "1.1",
+  "title": "No Hand Crafting",
+  "author": "Fentus",
+  "contact": "support@fentusgames.com",
+  "homepage": "https://fentusgames.com/",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod gives you the bare minimum to complete the game and disables hand crafting. Now works with multi-player!"
+}
